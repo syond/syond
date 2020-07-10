@@ -1,5 +1,5 @@
 ### Hi there, Syond Santos here 👋
-I'm a Javascript Full Stack Developer who likes to learn some technologies, play some games, make eletronic music, and some financial investiments ;)
+I'm a Full Stack Developer who likes to learn some technologies, play some games, make eletronic music, and some financial investiments ;)
 
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning NodeJS, ReactJS and React Native.
