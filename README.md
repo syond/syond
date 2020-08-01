@@ -3,7 +3,7 @@ I'm a Full Stack Developer who likes to learn some technologies, play some games
 
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning NodeJS, ReactJS and React Native.
-- 👯 I’m looking to collaborate on big systems which i can learn something.
+- 👯 I’m looking for a job as Full Stack Developer.
 - 🤔 I’m looking for help with CSS, it's one of my problems right now.
 - 📫 How to reach me: syond94@gmail.com
 
