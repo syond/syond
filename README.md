@@ -1,10 +1,8 @@
 ### Hi there, Syond Santos here 👋
-I'm a Full Stack Developer who likes to learn some technologies, play some games, make eletronic music, and some financial investiments ;)
 
 - 🔭 I’m currently working on my personal projects.
-- 🌱 I’m currently learning NodeJS, ReactJS and React Native.
+- 🌱 I’m currently learning Javascript Stack.
 - 👯 I’m looking for a job as Full Stack Developer.
-- 🤔 I’m looking for help with CSS, it's one of my problems right now.
 - 📫 How to reach me: syond94@gmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-syond-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syond/)](https://www.linkedin.com/in/syond/)
