@@ -1,8 +1,5 @@
 ### Hi there, Syond Santos here 👋
 
-- 🔭 I’m currently working on my personal projects.
-- 🌱 I’m currently learning Javascript Stack.
-- 👯 I’m looking for a job as Full Stack Developer.
 - 📫 How to reach me: syond94@gmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-syond-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syond/)](https://www.linkedin.com/in/syond/)
