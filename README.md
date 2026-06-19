@@ -1,7 +1,8 @@
 ### Hi there, Syond Santos here 👋
 
-- 📫 How to reach me: syond94@gmail.com
-- Linkedin: https://www.linkedin.com/in/syond/
+Currently working on private projects.
+
+- 📫 How to reach me: https://www.linkedin.com/in/syond/
 
 [![Linkedin Badge](https://img.shields.io/badge/-syond-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syond/)](https://www.linkedin.com/in/syond/)
 [![Gmail Badge](https://img.shields.io/badge/-syond94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syond94@gmail.com)](mailto:syond94@gmail.com)
