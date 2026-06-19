@@ -1,6 +1,6 @@
 ### Hi there, Syond Santos here 👋
 
-Currently working on private projects.
+Currently working on private repositories.
 
 - 📫 How to reach me: https://www.linkedin.com/in/syond/
 
