@@ -1,4 +1,4 @@
-### Hi there, Syond Santos here 👋
+### Hi there 👋
 
 Currently working on [Clip For Me](https://clipforme.nuvoxt.com/).
 
