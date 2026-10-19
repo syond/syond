@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working on [Clipsfy](https://clipsfy.com/).
+Currently working on [Pedidos Já](https://pedidosja.nuvoxt.com) [Clipsfy](https://clipsfy.com/).
 
 - 📫 How to reach me: https://www.linkedin.com/in/syond/
 
